@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f82c23a8a7ef8dc1a49a8bfc6a96883e79121864",
+        "version" : "5.5.0"
+      }
+    },
+    {
+      "identity" : "ed25519",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AndrewBarba/ed25519.git",
+      "state" : {
+        "revision" : "77bf751b603c573d50e45e2adb2e06776af219ae",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "messagepacker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hirotakan/MessagePacker.git",
+      "state" : {
+        "revision" : "d60363742752adc3e9efdf57dc26317945d0d2f4",
+        "version" : "0.4.6"
+      }
+    },
+    {
+      "identity" : "swift-algorand-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jesulonimi21/Swift-Algorand-Sdk",
+      "state" : {
+        "revision" : "12ad10e533b1028c7305bd6d0675fed3df3e83ae",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
